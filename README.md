@@ -13,6 +13,11 @@
 
 🔐 Decodificador de Texto - Desafio Alura Este projeto foi desenvolvido como parte do Desafio da Alura juntamente com o programa ONE Next Education para criar um decodificador de texto com design responsivo e funcionalidades de criptografia/descriptografia. A aplicação permite que o usuário criptografe e descriptografe mensagens de forma simples e intuitiva, utilizando uma interface moderna e responsiva.
 
+🌐 Deploy
+- A aplicação está disponível online e pode ser acessada diretamente pelo link abaixo:
+
+https://challenge-decode.vercel.app/
+
 
 ## 👨‍💻 Desenvolvido por, Lucas Assis.
 
